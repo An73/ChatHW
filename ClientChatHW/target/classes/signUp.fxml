@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="authorized.SignUp"
+            prefHeight="400.0" prefWidth="600.0"
+            style="-fx-background-color: coral;">
+    <children>
+        <TextArea layoutX="50.0" layoutY="10.0" minHeight="40.0" maxHeight="40.0" maxWidth="300.0" minWidth="300.0" promptText="LOGIN" fx:id="loginBox" style="-fx-control-inner-background:#FFA07A;"/>
+        <PasswordField layoutX="50.0" layoutY="70.0" minHeight="40.0" maxHeight="40.0" maxWidth="300.0" minWidth="300.0" promptText="PASSWORD" fx:id="passwordBox1" style="-fx-control-inner-background:#FFA07A;"/>
+        <PasswordField layoutX="50.0" layoutY="130.0" minHeight="40.0" maxHeight="40.0" maxWidth="300.0" minWidth="300.0" promptText="PASSWORD" fx:id="passwordBox2" style="-fx-control-inner-background:#FFA07A;"/>
+        <TextArea layoutX="50.0" layoutY="190.0" minHeight="40.0" maxHeight="40.0" maxWidth="300.0" minWidth="300.0" promptText="NICKNAME" fx:id="nicknameBox" style="-fx-control-inner-background:#FFA07A;"/>
+        <Button layoutX="80.0" layoutY="250.0" minHeight="40.0" maxHeight="40.0" maxWidth="240.0" minWidth="240.0" text="SignUp" fx:id="signUpButton" textFill="#FF8C00"/>
+        <Button layoutX="80.0" layoutY="310.0" minHeight="40.0" maxHeight="40.0" maxWidth="240.0" minWidth="240.0" text="SignIn" fx:id="signInButton" textFill="#FF8C00"/>
+    </children>
+</AnchorPane>
