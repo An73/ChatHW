@@ -1,6 +1,6 @@
 # ChatHW
 
-<img width="399" alt="screen shot 2018-10-29 at 5 22 25 pm" src="https://user-images.githubusercontent.com/33597605/47660869-9bcdb480-dba0-11e8-94f7-cfaeefa638d7.png">
+  <img width="399" alt="screen shot 2018-10-29 at 5 22 25 pm" src="https://user-images.githubusercontent.com/33597605/47660869-9bcdb480-dba0-11e8-94f7-cfaeefa638d7.png">
 
 <img width="399" alt="screen shot 2018-10-29 at 5 23 02 pm" src="https://user-images.githubusercontent.com/33597605/47660873-a425ef80-dba0-11e8-9c3d-4df8264b02c9.png">
 
